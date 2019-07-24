@@ -1,5 +1,5 @@
 project:
-  machine_name: test_profile_split_enable
+  machine_name: test-profile-split-enable
   prefix: BLT
   human_name: 'BLTed 8'
   profile:

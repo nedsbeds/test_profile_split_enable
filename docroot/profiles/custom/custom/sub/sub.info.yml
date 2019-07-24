@@ -1,0 +1,8 @@
+name: 'Sub profile'
+type: profile
+description: 'Sub profile.'
+version:
+base profile: primary
+core: 8.x
+dependencies:
+  - profile_split_enable

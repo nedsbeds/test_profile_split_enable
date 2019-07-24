@@ -1,0 +1,16 @@
+uuid: 9edf60ce-fe8e-4301-92e9-de7ce159ef88
+langcode: en
+status: false
+dependencies: {  }
+id: primary
+label: 'Primary Profile'
+description: ''
+folder: ../config/profiles/primary
+module: {  }
+theme: {  }
+blacklist:
+  - system.site
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0

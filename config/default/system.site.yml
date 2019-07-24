@@ -1,0 +1,14 @@
+uuid: 844f00e8-3a89-4c0f-acc4-c43e0629fefc
+name: 'Default Profile Site'
+mail: no-reply@acquia.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

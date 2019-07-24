@@ -1,0 +1,8 @@
+name: 'Primary'
+type: profile
+description: 'Primary profile.'
+version:
+base profile: lightning
+core: 8.x
+dependencies:
+  - profile_split_enable

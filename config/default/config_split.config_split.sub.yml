@@ -1,0 +1,16 @@
+uuid: 4f50fdf8-c9e6-47a3-b69f-f5ed6bbc629d
+langcode: en
+status: false
+dependencies: {  }
+id: sub
+label: 'Sub Profile'
+description: ''
+folder: ../config/profiles/sub
+module: {  }
+theme: {  }
+blacklist:
+  - system.site
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0
